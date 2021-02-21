@@ -4,17 +4,18 @@
              x:Class="Grupp4_Esimene.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        <Frame BackgroundColor="LightSkyBlue" Padding="24" CornerRadius="20">
+            <Label Text="Grupp 4 esimene rakendus!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+        <Label Text="Looge projekt avalikult Githubis, koos seadistamise juhistega" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text=" Kirjeldage seda protsessi (githubis md /pdf failina või github wikis), mis osutus kergeks, mis raskeks. Olge valmis esitama seda teiste ees. Võite valmistada 10 minutilise video klippi esitamiseks kui ei soovi esitada live. (Kõik gruppid esitavad järgmine nädal).
+Ärge unustage alla kirjutada, kes meeskonna liikmetest osales iga nädal eraldi." FontSize="16" Padding="30,0,30,0"/>
         <Label FontSize="16" Padding="30,24,30,0">
             <Label.FormattedText>
                 <FormattedString>
                     <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                        <Span Text="Repo : "/>
+                        <Span Text="https://github.com/tluur/Grupp4" FontAttributes="Bold"/>
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>
