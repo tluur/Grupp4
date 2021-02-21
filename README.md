@@ -6,5 +6,5 @@
 <li>Olge valmis esitama seda teiste ees (Kõik gruppid esitavad järgmine nädal).
 <li>Ärge unustage alla kirjutada, kes meeskonna liikmetest osales iga nädal eraldi.
 </ul>
-# Pilt
+
 ![](git1.jpg)
